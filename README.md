@@ -11,3 +11,14 @@ Designed for Linux systems to automate log maintenance and cleanup.
 - Log management
 - Automation concepts
 - Git & GitHub workflows
+
+## Screenshots
+
+### Running the CLI Tool
+![Run Command](screenshots/run-command.png)
+
+### Generated Archive
+![Archive Output](screenshots/archive-output.png)
+
+### Archive History Log
+![Archive Log](screenshots/archive-log.png)
